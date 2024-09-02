@@ -1,22 +1,15 @@
 # KFC-clone
 Hii Guys this is KFC clone website created by
+1. Mulkesh Sharma
 
-1.Harsh singh(Hars28)
-2.Mahendra chandravanshi(Mahendra2611)
-3.lalith sai(lalith9212)
-4.tanish mangal(tanishmangal)
-5.Prashant Bharate(prashantbharate)
-
-
-
-we faced many issue to create this but we made our way throgh it and completed this website, and we had 5 days to complete it
+I faced many issue to create this but I made my way throgh it and completed this website, and i had 12 days to complete it
 
 #Responsibilities:
-  First we went through the original website analyzed all the functionalities,how the website is working,
+  First I went through the original website analyzed all the functionalities,how the website is working,
   how the website functioning, layout of webpages , and core agenda of website.
-  Than we distributed the workflow, roles & responsibilities and divided work according to the complexity,
-  we gave first priority to complex work. We referred to MDN documentation and other resources,we have gone through the website Stackoverflow to complete website
-  We were more focused on functionality of website.
+  Than i understand the workflow, roles & responsibilities and divided work according to the complexity,
+  I gave first priority to complex work. I referred to MDN documentation and other resources,I have gone through the website Stackoverflow to complete website
+  I was more focused on functionality of website.
   and all we built is this
 
 #About KFC:
@@ -31,7 +24,7 @@ Tech Stacks Used:
   3.JAVASCRIPT
   
 so lets see what is inside KFC:
-  we have a sign in page where you can sign in and you will get quick OTP(ONE TIME PASSWORD) which provides you 180 sec to fill the otp and qick sign in
+  I have a sign in page where you can sign in and you will get quick OTP(ONE TIME PASSWORD) which provides you 180 sec to fill the otp and qick sign in
   so after sign in you will be redirected to the home page
   on home page you will get our fresh food chiken and all other items
   after that you can go through the our menu page to see all other categories of food and check it if any one you like you can add it quickely to cart 
@@ -43,9 +36,9 @@ so lets see what is inside KFC:
   so on that deal page you will get best offers of the day
   so after this we have some all other pages which tells you about our kfc
   privacy policy we support gift cards too which is issued by YUM
-  we have help page to help our customers
-  you can find a nearest KFC,even we provide you the contact Number
-  in case you facing any issue with order we have solution on that you just need to contact us that we have provided you a customer number
+  I have help page to help our customers
+  you can find a nearest KFC,even i have provide you the contact Number
+  in case you facing any issue with order I have solution on that you just need to contact me that I have provided you a customer number
   
   
   Mulkesh Sharma
